@@ -1,10 +1,10 @@
-import React from 'react';
-import './styles/App.css';
-import HomeScreen from './components/HomeScreen';
+import React from "react";
+import "./styles/App.css";
+import HomeScreen from "./components/HomeScreen";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <HomeScreen />
     </div>
   );
